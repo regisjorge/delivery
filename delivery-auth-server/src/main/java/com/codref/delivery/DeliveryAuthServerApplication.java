@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DeliveryAuthServerApplication {
 
 	public static void main(String[] args) {
+		// http://localhost:9091/
 		SpringApplication.run(DeliveryAuthServerApplication.class, args);
 	}
 
